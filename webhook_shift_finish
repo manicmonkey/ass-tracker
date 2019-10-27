@@ -1,0 +1,22 @@
+{
+    "hook_key": "35198134-134d-4991-8329-7ed4e39b5dde",
+    "hook_time": 1572073368,
+    "hook_signature": "X-Hook-Signature",
+    "payload": {
+        "topic": "clockin.updated",
+        "body": {
+            "id": 121673855,
+            "user_id": 1145346,
+            "device_id": 555174,
+            "time": 1572073325,
+            "type": "finish",
+            "latitude": null,
+            "longitude": null,
+            "photo": null,
+            "department_id": null,
+            "shift_id": 63837331,
+            "removed": false,
+            "updated_at": 1572073368
+        }
+    }
+}
